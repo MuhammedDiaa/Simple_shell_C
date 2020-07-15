@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586808931 source:/home/muhammed/OS/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
